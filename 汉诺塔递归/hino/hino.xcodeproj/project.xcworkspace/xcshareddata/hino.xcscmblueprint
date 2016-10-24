@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E966A4C03329BC1E8D80AA5A773592253B72F591",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "65200BAA9B0DC133E81B7EFB1A95235FBA892AE5" : 9223372036854775807,
+    "E966A4C03329BC1E8D80AA5A773592253B72F591" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0EB89317-F383-4316-B3A9-1499CD790CC1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "65200BAA9B0DC133E81B7EFB1A95235FBA892AE5" : "",
+    "E966A4C03329BC1E8D80AA5A773592253B72F591" : "-data-structure-and-algorithm\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "hino",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "汉诺塔递归\/hino\/hino.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:lipeng88\/-data-structure-and-algorithm.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "65200BAA9B0DC133E81B7EFB1A95235FBA892AE5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:lipeng88\/-data-structure-and-algorithm.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E966A4C03329BC1E8D80AA5A773592253B72F591"
+    }
+  ]
+}
