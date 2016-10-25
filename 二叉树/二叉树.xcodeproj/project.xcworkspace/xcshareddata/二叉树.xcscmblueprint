@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E966A4C03329BC1E8D80AA5A773592253B72F591",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "65200BAA9B0DC133E81B7EFB1A95235FBA892AE5" : 9223372036854775807,
+    "E966A4C03329BC1E8D80AA5A773592253B72F591" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CC2B581C-06A2-4EB6-922A-014873017950",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "65200BAA9B0DC133E81B7EFB1A95235FBA892AE5" : "",
+    "E966A4C03329BC1E8D80AA5A773592253B72F591" : "-data-structure-and-algorithm\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "二叉树",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "二叉树\/二叉树.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:lipeng88\/-data-structure-and-algorithm.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "65200BAA9B0DC133E81B7EFB1A95235FBA892AE5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:lipeng88\/-data-structure-and-algorithm.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E966A4C03329BC1E8D80AA5A773592253B72F591"
+    }
+  ]
+}
